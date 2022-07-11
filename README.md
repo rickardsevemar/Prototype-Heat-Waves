@@ -20,4 +20,4 @@ blue for cold, while also through the auditory senses with the engine RPM (Revol
 Once the player reaches an overheat the car will start smoking and eventually start burning, and by then the game is over. 
 Similarly the same thing will happen but using frosty animations and a colder look to it if it freezes.
 
-Developed in Unreal Engine 4 over two weeks.
+Developed with Unreal Engine 4 over two weeks.
